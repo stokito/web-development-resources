@@ -19,6 +19,7 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 ## Table of Contents
 
 - [Hosting](#hosting)
+- [Localhost tunnels](#localhost-tunnels)
 - [Learning Platforms](#learning-platforms)
 - [Coding Challenge Platforms](#coding-challenge-platforms)
 - [Freelancing platforms](#freelancing-platforms)
@@ -57,6 +58,17 @@ Initially created by [Marko Denic](https://twitter.com/denicmarko) on [Twitter](
 | https://www.digitalocean.com/ |
 
 [⬆ back to top](#table-of-contents)
+
+## Localhost tunnels:  
+
+| Website |
+| ------- |
+| https://ngrok.com | 
+| https://localhost.run |  
+| https://localtunnel.github.io |  
+
+[⬆ back to top](#table-of-contents)
+
 
 ## Learning Platforms: 
  
